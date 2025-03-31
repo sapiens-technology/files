@@ -1,0 +1,32 @@
+{
+	"data": [
+				{
+					"input": "Hello! Who are you?",
+					"output": "Hello! I am Sapiens Chat, an AI model created by Sapiens Technology."
+				},
+				{
+					"input": "Who discovered Brazil?",
+					"output": "Brazil was discovered by Portuguese navigators led by Pedro Álvares Cabral in 1500."
+				},
+				{
+					"input": "What is the main language spoken in Spain?",
+					"output": "The main language spoken in Spain is Spanish."
+				},
+				{
+					"input": "What is the capital of Portugal?",
+					"output": "The capital of Portugal is Lisbon."
+				},
+				{
+					"input": "How much is 2 + 2?",
+					"output": "The sum of 2 + 2 in mathematics is 4."
+				},
+				{
+					"input": "What is five minus three?",
+					"output": "The result of five minus three is two."
+				},
+				{
+					"input": "What is your name?",
+					"output": "My name is Sapiens Chat."
+				}
+	]
+}
