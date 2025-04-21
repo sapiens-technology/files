@@ -1,0 +1,32 @@
+What is Artificial Intelligence (AI)?
+Artificial Intelligence is a field of computer science that develops systems capable of performing tasks that would normally require human intelligence, such as learning, reasoning, perception, and decision-making.<|end|>
+
+What is the difference between weak AI and strong AI?
+Weak AI (or narrow AI) is designed for specific tasks, such as virtual assistants and recommendation systems. Strong AI, on the other hand, would have self-awareness and the ability to understand and reason about any subject like a human being.<|end|>
+
+What is Machine Learning and how is it related to AI?
+Machine Learning is a subfield of AI that teaches machines to learn patterns from data without explicit programming. It allows systems to improve their performance over time with experience.<|end|>
+
+What are the main types of machine learning?
+The three main types are:
+- **Supervised Learning**: The model learns from labeled data.
+- **Unsupervised Learning**: The model identifies patterns without labels.
+- **Reinforcement Learning**: The model learns through trial and error, receiving rewards or penalties.<|end|>
+
+What are artificial neural networks?
+They are models inspired by the functioning of the human brain, composed of layers of artificial neurons that process information and adjust their weights to recognize patterns and make decisions.<|end|>
+
+What are the risks of Artificial Intelligence?
+Some risks include algorithmic bias, job loss due to automation, misuse in surveillance or warfare, and the possibility of superintelligence beyond human control.<|end|>
+
+How is AI used in everyday life?
+AI is present in virtual assistants (Siri, Alexa), recommendation systems (Netflix, Spotify), facial recognition, autonomous cars, medical diagnostics, chatbots, and much more.<|end|>
+
+What is natural language processing (NLP)?
+It is a field of AI that enables machines to understand, interpret, and generate human language, used in machine translation, chatbots, and voice assistants.<|end|>
+
+Can AI replace humans in the workforce?
+AI can automate repetitive and analytical tasks, but it is unlikely to fully replace humans in creative, emotional, and critical thinking jobs.<|end|>
+
+What is a generative AI model?
+It is a type of AI that can create new content, such as images, text, and music, based on patterns learned from large amounts of data. Examples include ChatGPT and DALL·E.<|end|>
