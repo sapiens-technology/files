@@ -1,0 +1,1 @@
+{"vocabulary_size": 9, "pattern": "sapi-5", "token_to_index": {" ": 0, "!": 1, ".": 2, "Hello": 3, "Sapiens": 4, "Technology": 5, "Welcome": 6, "to": 7, "world": 8}, "index_to_token": {"0": " ", "1": "!", "2": ".", "3": "Hello", "4": "Sapiens", "5": "Technology", "6": "Welcome", "7": "to", "8": "world"}}
