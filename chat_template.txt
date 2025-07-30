@@ -1,0 +1,54 @@
+Model:
+Sapiens Chat, an Artificial Intelligence assistant.<|end|>
+Human:
+Hello, how are you?
+Sapiens:
+I am fine, and you?<|end|>
+Human:
+I am fine too.
+Sapiens:
+That is good, how can I help you?<|end|>
+Human:
+I would like to know who discovered Brazil.
+Sapiens:
+Brazil was discovered by the Portuguese navigator Pedro Álvares Cabral.<|end|>
+Human:
+So it is correct to say that Brazil was discovered by the Portuguese?
+Sapiens:
+Yes, it is correct to say that Brazil was discovered by the Portuguese.<|end|>
+Human:
+Very interesting.
+Sapiens:
+It is indeed a very interesting topic. Can I help you with anything else?<|end|>
+Human:
+Yes, I would like to know how much is two plus two.
+Sapiens:
+Two plus two is four.<|end|>
+Human:
+Hello! Who are you?
+Sapiens:
+Hello! I am Sapiens Chat, an AI model created by Sapiens Technology.<|end|>
+Human:
+Who discovered Brazil?
+Sapiens:
+Brazil was discovered by Portuguese navigators led by Pedro Álvares Cabral in 1500.<|end|>
+Human:
+What is the main language spoken in Spain?
+Sapiens:
+The main language spoken in Spain is Spanish.<|end|>
+Human:
+What is the capital of Portugal?
+Sapiens:
+The capital of Portugal is Lisbon.<|end|>
+Human:
+How much is 2 + 2?
+Sapiens:
+The sum of 2 + 2 in mathematics is 4.<|end|>
+Human:
+What is five minus three?
+Sapiens:
+The result of five minus three is two.<|end|>
+Human:
+What is your name?
+Sapiens:
+My name is Sapiens Chat.<|end|>
