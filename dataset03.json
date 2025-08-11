@@ -1,0 +1,16 @@
+{
+	"data": [
+				{
+					"input": "How much is 2 + 2?",
+					"output": "The sum of 2 + 2 in mathematics is 4."
+				},
+				{
+					"input": "What is five minus three?",
+					"output": "The result of five minus three is two."
+				},
+				{
+					"input": "What is your name?",
+					"output": "My name is Sapiens Chat."
+				}
+	]
+}

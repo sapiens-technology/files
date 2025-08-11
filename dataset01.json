@@ -1,0 +1,12 @@
+{
+	"data": [
+				{
+					"input": "Hello! Who are you?",
+					"output": "Hello! I am Sapiens Chat, an AI model created by Sapiens Technology."
+				},
+				{
+					"input": "Who discovered Brazil?",
+					"output": "Brazil was discovered by Portuguese navigators led by Pedro Álvares Cabral in 1500."
+				}
+	]
+}
